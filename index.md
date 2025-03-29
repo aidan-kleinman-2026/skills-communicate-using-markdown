@@ -13,3 +13,8 @@ Added headers to the file.
 ``` python
 print("Hello World!")
 ```
+
+To Do List:
+- [x] Homework
+- [x] Go to Class
+- [ ] Study for Test
